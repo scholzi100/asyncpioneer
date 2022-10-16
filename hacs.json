@@ -1,0 +1,6 @@
+{
+  "name": "Async Pioneer",
+  "render_readme": true,
+  "homeassistant": "2022.10.1",
+  "hide_default_branch": true
+}
